@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XF.EmbeddedFonts.MainPage">
+
+    <StackLayout>
+        <Label Text="Welcome to Xamarin.Forms... with custom font setup, easier than ever!" 
+               FontFamily="LibreBaskerville-Regular"
+               VerticalOptions="CenterAndExpand"
+               HorizontalTextAlignment="Center"
+               HorizontalOptions="Center"
+               Margin="10" />
+    </StackLayout>
+
+</ContentPage>
